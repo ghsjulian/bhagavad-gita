@@ -15,16 +15,6 @@ const getDataSet = async () => {
     const req = await fetch("./dataset/gita-data.json");
     const res = await req.json();
     localStorage.setItem("GITA", JSON.stringify(res));
-    /*
-    for (var i = 0; i < res?.length; i++) {
-        if (count <= i) {
-            break;
-        }
-        const li = document.createElement("li");
-        li.textContent = "Chapter No - " + res[i].id;
-        chapters.appendChild(li);
-    }
-    */
 };
 
 window.onload = async () => {
