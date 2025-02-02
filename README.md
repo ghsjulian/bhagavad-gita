@@ -18,11 +18,11 @@
 
 #### Developer Email : <a href="email:ghsjulian@outlook.com" target="_blank"> ghsjulian@outlook.com </a>
 
-#### Live Demo : <a href="https://mini-facebook-wrdw.onrender.com/" target="_blank">View Demo </a>
+#### Live Demo : <a href="https://ghsjulian.github.io/bhagavad-gita/" target="_blank">View Demo </a>
 
 #### Start Date : 01 February 2025
 
-#### End Date : Not Completed Yet
+#### End Date : 02 February 2025
 
 ---
 
