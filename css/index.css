@@ -183,17 +183,18 @@ main .page {
 }
 .page .hr {
     width: 100%;
-    margin: 0.8rem auto;
+    margin: 1rem auto;
     padding: 0.2rem;
     background: #3a4a4d59;
     border-bottom: 2px solid #00afe944;
 }
 .page strong {
     color: #fff;
-    line-height: 2.2rem;
+    line-height: 2.4rem;
     word-spacing: 3px;
     max-width: 85%;
     font-size: 20px;
+    margin: 0.5rem 0;
 }
 /*--> Mobile Reaponsive <--*/
 @media (max-width: 768px) {
